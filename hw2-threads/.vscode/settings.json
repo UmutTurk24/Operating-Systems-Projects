@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "setjmp.h": "c",
+        "locale": "c",
+        "string": "c",
+        "string.h": "c"
+    }
+}
